@@ -1,0 +1,356 @@
+.nav{
+    height: 70px;
+    background: #EBEBEB;
+}
+
+.nav .nav_con{
+    height: 70px;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.nav .nav_con img{
+    width: 139px;
+    height: 33px;
+}
+
+.nav .nav_con span{
+    display: inline-block;
+    height: 17px;
+    width: 2px;
+    background: #ccc;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nav .nav_con i{
+    font-size: 18px;
+}
+
+.jin{
+    height: 40px;
+    background: #FFFBE4;
+}
+
+.jin .jin-con{
+    width: 1200px;
+    height: 40px;
+    margin: 0 auto;
+    font-size: 10px;
+    color: #989898;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jin .jin-con span{
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: url(../images/login-jin.png) no-repeat;
+    background-size: 13px 13px;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+.jin .jin-con p{
+    display: flex;
+    height: 14px;
+    line-height: 1;
+    align-items: center;
+}
+
+.bg{
+    height: 590px;
+    background: #081638;
+}
+
+.bg .login{
+    height: 590px;
+    width: 1200px;
+    margin: 0 auto;
+    background: url(../images/login-bg.png) no-repeat; 
+    position: relative;
+}
+
+.bg .login .login-con{
+    width: 380px;
+    height: 530px;
+    background: #fff;
+    position: absolute;
+    right: 0;
+    top: 30px;
+}
+
+.bg .login .login-con .login-con{
+    height: 20px;
+    width: 380px;
+    background: red;
+}
+
+.bg .login .login-con .login-h{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 25px;
+    box-sizing: border-box;
+    padding: 0 20px 0 20px;
+}
+
+.bg .login .login-con .login-h a{
+    font-size: 21px;
+    color: #3a3a3a;
+}
+
+.bg .login .login-con .login-h .cur{
+    color: #BB0707;
+}
+
+.bg .login .login-con .login-h i{
+    display: inline-block;
+    height: 20px;
+    width: 2px;
+    background: #ccc;
+}
+
+.bg .login .login-con .ipt{
+    width: 380px;
+}
+
+.bg .login .login-con .ipt .put{
+    margin-top: 40px;
+}
+
+.bg .login .login-con .ipt .put input{
+    width: 328px;
+    height: 46px;
+    margin-left: 25px;
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+    box-sizing: border-box;
+    padding: 10px 0 10px 0;
+    text-indent: 5px;
+}
+
+.bg .login .login-con .ipt .dx{
+    margin-left: 25px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.bg .login .login-con .ipt .dx i{
+    display: inline-block;
+    margin-right: 10px;
+    width: 12px;
+    height: 15px;
+    background: url(../images/login-phone.png) no-repeat;
+}
+
+.bg .login .login-con .ipt .dx a{
+    color: #007DFF;
+    font-size: 10px;
+}
+
+.bg .login .login-con .ipt .dl{
+    margin-left: 25px;
+    margin-top: 17px;
+}
+
+.bg .login .login-con .ipt .dl a{
+    display: block;
+    color: #fff;
+    width: 328px;
+    height: 44px;
+    background: #C70000;
+    border-radius: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg .login .login-con .ipt .jz{
+    width: 380px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    line-height: 30px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0 25px 0 25px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.bg .login .login-con .ipt .jz span{
+    display: inline-block;
+    margin-left: -205px;
+    margin-top: -3px;
+}
+
+.bg .login .login-con .ipt .jz span a{
+    font-size: 12px;
+    color: #333;
+}
+
+.bg .login .login-con .ipt .jz i a{
+    font-size: 12PX;
+    color: #007DFF;
+}
+
+.bg .login .login-con .ipt .zc{
+    width: 380px;
+    height: 12px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.bg .login .login-con .ipt .zc a{
+    color: #007DFF;
+}
+
+.bg .login .login-con .zf{
+    height: 82px;
+    width: 380px;
+    margin-top: 108px;
+}
+
+.bg .login .login-con .zf .zf-con{
+    height: 18px;
+    width: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg .login .login-con .zf .zf-con .left{
+    display: inline-block;
+    height: 1px;
+    width: 94px;
+    background: url(../images/login-zfl.png) no-repeat;
+}
+
+.bg .login .login-con .zf .zf-con .right{
+    display: inline-block;
+    height: 1px;
+    width: 94px;
+    background: url(../images/login-zfr.png) no-repeat;
+}
+
+.bg .login .login-con .zf .zf-con span{
+    color: #ccc;
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bg .login .login-con .zf .zf-bg{
+    width: 380px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.bg .login .login-con .zf .zf-bg a{
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    background: red;
+    margin-top: 15px;
+}
+
+.bg .login .login-con .zf .zf-bg .qq{
+    background: url(../images/login-zf.png) no-repeat;
+    background-position: -72px -9px;
+}
+
+.bg .login .login-con .zf .zf-bg .qq:hover{
+    background: url(../images/login-zf.png) no-repeat;
+    background-position: -72px -55px;
+}
+
+.bg .login .login-con .zf .zf-bg .bao{
+    background: url(../images/login-zf.png) no-repeat;
+    background-position: -132px -9px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.bg .login .login-con .zf .zf-bg .bao:hover{
+    background: url(../images/login-zf.png) no-repeat;
+    background-position: -132px -55px;
+}
+
+.bg .login .login-con .zf .zf-bg .wei{
+    background: url(../images/login-zf.png) no-repeat;
+    background-position: -12px -9px;
+}
+
+.bg .login .login-con .zf .zf-bg .wei:hover{
+    background: url(../images/login-zf.png) no-repeat;
+    background-position: -12px -55px;
+}
+
+.bg .login .login-con .erwei{
+    height: 360px;
+    width: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    display: none;
+}
+
+.bg .login .login-con .erwei .xinxi{
+    width: 380px;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+}
+
+.bg .login .login-con .erwei .xinxi p{
+    font-size: 12px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+}
+
+.bg .login .login-con .erwei .xinxi p i{
+    color: #007DFF;
+}
+
+footer{
+    height: 269px;
+    background: #EBEBEB;
+    overflow: hidden;
+}
+
+footer .foot-xin{
+    height: 269px;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer .foot-xin p{
+    font-size: 10px;
+    margin-top: 20px;
+    color: #999;
+}
+
+footer .foot-xin p a{
+    color: #999;
+}
+
+footer .foot-xin p a:hover{
+    text-decoration: underline;
+}

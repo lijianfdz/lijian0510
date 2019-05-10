@@ -1,0 +1,320 @@
+section{
+    height: 100%;
+}
+
+/* 头部信息 */
+section .xinxi{
+    height: 29px;
+    width: 1200px;
+    margin: 15px auto;
+}
+
+section .xinxi ul{
+    display: flex;
+    height: 29px;
+}
+
+section .xinxi ul li{
+    height: 29px;
+    line-height: 29px;
+    font-size: 12px;
+}
+
+section .xinxi ul li a{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+section .xinxi ul li a{
+    color: #666;
+}
+
+/* 商品选购信息 */
+section .page{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+section .page .box{
+    width: 450px;
+}
+
+section .page .box .bigimg{
+    width: 450px;
+    height: 450px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+section .page .box .bigimg a{
+    display: block;
+    margin-left: 25px;
+}
+
+section .page .box .bigimg img{
+    width: 400px;
+    height: 400px;
+    display: block;
+}
+
+section .page .box .smallimg{
+    width: 450px;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+section .page .box .smallimg a{
+    display: block;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section .page .box .smallimg .bg{
+    border: 1px solid red;
+}
+
+section .page .box .smallimg img{
+    width: 60px;
+    height: 60px;
+}
+
+section .page .page-con{
+    width: 700px;
+    height: 784px;
+}
+
+section .page .page-con .pro-title{
+    font-size: 20px;
+}
+
+section .page .page-con .pro-slog{
+    height: 36px;
+    width: 620px;
+    color: #CA141D;
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+section .page .page-con .play{
+    width: 700px;
+    height: 177px;
+    background: #F5F5F5;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+section .page .page-con .play .pro-price{
+    font-size: 14px;
+    color: #3a3a3a;
+    height: 30px;
+    width: 700px;
+    line-height: 30px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 1;
+}
+
+section .page .page-con .play .pro-price span{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #CA141D;
+}
+
+section .page .page-con .play .pro-price .p{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 12px;
+}
+
+section .page .page-con .play p{
+    margin-top: 10px;
+    font-size: 12px;
+    color: #3a3a3a;
+    margin-left: 20px;
+}
+
+section .page .page-con .play .pro-play{
+    width: 700px;
+    height: 126px;
+    display: flex;
+    justify-content: space-between;
+}
+
+section .page .page-con .play .pro-play .con{
+    width: 615px;
+    height: 122px;
+    margin-top: 5px;
+}
+
+section .page .page-con .play .pro-play .con ul li{
+    width: 615px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+section .page .page-con .play .pro-play .con ul li a{
+    display: inline-block;
+    color: 
+}
+
+section .page .page-con .play .pro-play .con ul li span{
+    display: inline-block;
+    font-size: 12px;
+    color: #CA141D;
+    padding: 0 5px 0 5px;
+    height: 20px;
+    border: 1px solid #CA141D;
+    text-align: center;
+    line-height: 20px;
+}
+
+section .page .page-con .play .pro-play .con ul li .zp{
+    margin-left: 20px;
+}
+
+section .page .page-con .play .pro-play .con ul li .check{
+    font-size: 12px;
+    color: #888;
+    margin-left: 10px;
+}
+
+section .page .page-con .play .pro-play .con ul li .x{
+    font-size: 12px;
+    color: #3a3a3a;
+    margin-left: 10px;
+}
+
+section .page .page-con .play .pro-play .con img{
+    width: 30px;
+    height: 30px;
+}
+
+section .page .page-con .fuwu{
+    height: 24px;
+    line-height: 24px;
+    width: 700px;
+    display: flex;
+    margin: 10px;
+    position: relative;
+}
+
+section .page .page-con .fuwu span{
+    font-size: 12px;
+    color: #3a3a3a;
+    margin-left: 10px;
+}
+
+section .page .page-con .fuwu ul{
+    display: flex;
+    font-size: 12px;
+    margin-left: 10px;
+    position: absolute;
+    left: 60px;
+    top: -5px;
+}
+
+section .page .page-con .fuwu ul li{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+section .page .page-con .mar{
+    margin-top: 30px;
+}
+
+section .page .page-con .fuwu .color li a{
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 10px 0 10px;
+    height: 40px;
+    border: 1px solid /*#CA141D*/#ABABAB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3a3a3a;
+}
+
+section .page .page-con .carAdd{
+    display: flex;
+}
+
+section .page .page-con .carAdd .num{
+    width: 64px;
+    height: 44px;
+    border: 1px solid #D6D6D6;
+    position: relative;
+}
+
+section .page .page-con .carAdd .num .ber{
+    width: 42px;
+    height: 44px;
+    position: absolute;
+    left: -11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #D6D6D6;
+}
+
+section .page .page-con .carAdd .num .ad{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #D6D6D6;
+    cursor: pointer;
+}
+
+section .page .page-con .carAdd .num .ev{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+section .page .page-con .carAdd .car{
+    display: block;
+    width: 172px;
+    height: 46px;
+    background: #FC600C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #fff;
+}
+
+section .page .page-con .carAdd .car2{
+    display: block;
+    width: 172px;
+    height: 46px;
+    background: #FC600C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #fff;
+}

@@ -1,0 +1,546 @@
+{
+	"classify001":{
+		"name" : "热销单品",
+		"list" : [
+			{
+				"id" : "shopr01",
+                "name" : "荣耀8X",
+                "desc" : "64GB降100 老用户再送数据线",
+				"src" : "rexiao1.png",
+				"price" : "¥1299"
+            },
+            {
+				"id" : "shopr02",
+                "name" : "HUAWEI Mate 20 Pro",
+                "desc" : "赠好礼|享6期免息",
+				"src" : "rexiao2.png",
+				"price" : "¥5499"
+            },
+            {
+				"id" : "shopr03",
+                "name" : "荣耀10青春版",
+                "desc" : "4+64GB减150",
+				"src" : "rexiao3.png",
+				"price" : "¥1299"
+            },
+            {
+				"id" : "shopr04",
+                "name" : "华为畅享 9S",
+                "desc" : "",
+				"src" : "rexiao4.png",
+				"price" : "¥1599"
+            },
+            {
+				"id" : "shopr05",
+                "name" : "荣耀10",
+                "desc" : "最高优惠300元  ",
+				"src" : "rexiao5.png",
+				"price" : "¥1899"
+            },
+            {
+				"id" : "shopr06",
+                "name" : "HUAWEI nova 4e",
+                "desc" : "3200万立体美颜 AI超广角三摄 ",
+				"src" : "rexiao6.png",
+				"price" : "¥1999"
+            },
+            {
+				"id" : "shopr07",
+                "name" : "荣耀畅玩8C",
+                "desc" : "4GB+32GB到手价899 ",
+				"src" : "rexiao7.png",
+				"price" : "¥899"
+            },
+            {
+				"id" : "shopr08",
+                "name" : "HUAWEI P20",
+                "desc" : "4GB+享6期免息 限量好礼",
+				"src" : "rexiao8.png",
+				"price" : "¥3388"
+            }
+		]
+	},
+	"classify002":{
+		"name" : "手机",
+		"list" : [
+			{
+				"id" : "shops1",
+                "name" : "华为畅享9",
+                "desc" : "6.26英寸高清珍珠屏 ",                
+				"src" : "phone2.png",
+				"price" : "¥1399"
+            },
+            {
+				"id" : "shops2",
+                "name" : "荣耀Note10",
+                "desc" : "6.到手价1999起 ",                
+				"src" : "phone3.png",
+				"price" : "¥1999"
+            },
+            {
+				"id" : "shops3",
+                "name" : "HUAWEI P20 Pro",
+                "desc" : "下单减400+赠好礼",                
+				"src" : "phone4.png",
+				"price" : "¥4988"
+            },
+            {
+				"id" : "shops4",
+                "name" : "荣耀Magic2",
+                "desc" : "限时优惠300元 ",                
+				"src" : "phone5.png",
+				"price" : "¥3499"
+            },
+            {
+				"id" : "shops5",
+                "name" : "华为畅享9 Plus",
+                "desc" : "6.四摄全面屏 ",                
+				"src" : "phone6.png",
+				"price" : "¥1499"
+            },
+            {
+				"id" : "shops6",
+                "name" : "荣耀8X Max",
+                "desc" : "64GB减100",                
+				"src" : "phone7.png",
+				"price" : "¥1399"
+            },  
+            {
+				"id" : "shops7",
+                "name" : "HUAWEI Mate 20 RS",
+                "desc" : "保时捷设计 ",                
+				"src" : "phone8.png",
+				"price" : "¥12999"
+            },
+            {
+				"id" : "shops8",
+                "name" : "荣耀Play",
+                "desc" : "最高优惠400 ",                
+				"src" : "phone9.png",
+				"price" : "¥1699"
+            },
+            {
+				"id" : "shops9",
+                "name" : "华为畅享 9e",
+                "desc" : "6.09英寸珍珠屏 ",                
+				"src" : "phone10.png",
+				"price" : "¥999"
+            }, 
+            {
+				"id" : "shops10",
+                "name" : "荣耀畅玩7",
+                "desc" : "小巧全面屏 ",                
+				"src" : "phone11.png",
+				"price" : "¥599"
+            }, 
+            {
+				"id" : "shops11",
+                "name" : "HUAWEI nova 3",
+                "desc" : "领券最高减100元 ",                
+				"src" : "phone12.png",
+				"price" : "¥2799"
+            },
+            {
+				"id" : "shops12",
+                "name" : "HUAWEI nova 3i",
+                "desc" : "享6期免息 ",                
+				"src" : "phone13.png",
+				"price" : "¥1899"
+            },
+            {
+				"id" : "shops13",
+                "name" : "荣耀畅玩8C",
+                "desc" : "限时优惠100 ",                
+				"src" : "phone14.png",
+				"price" : "¥899"
+            },
+            {
+				"id" : "shops14",
+                "name" : "华为畅享 8e 青春",
+                "desc" : "5.45英寸高清全面屏  ",                
+				"src" : "phone15.png",
+				"price" : "¥799"
+            }
+		]
+    },
+    "classify003":{
+		"name" : "笔记本电脑",
+		"list" : [
+			{
+				"id" : "shopb01",
+                "name" : "荣耀MagicBook 2019 锐龙版",
+                "desc" : "6.性能新升级 轻薄长续航  ",
+				"src" : "compu2.png",
+				"price" : "¥3999"
+            },
+            {
+				"id" : "shopb02",
+                "name" : "HUAWEI MateBook X Pro 2019 款",
+                "desc" : "赠蓝牙鼠标+晒单赠内胆包 ",
+				"src" : "compu3.png",
+				"price" : "¥8999"
+            },
+            {
+				"id" : "shopb03",
+                "name" : "荣耀MagicBook",
+                "desc" : "6.最高直降300元 享6期免息  ",
+				"src" : "compu4.png",
+				"price" : "¥4699"
+            },
+            {
+				"id" : "shopb04",
+                "name" : "HUAWEI MateBook 13",
+                "desc" : "稀缺货源  现货速发 ",
+				"src" : "compu5.png",
+				"price" : "¥5699"
+            },
+            {
+				"id" : "shopb05",
+                "name" : "HUAWEI MateBook D",
+                "desc" : "6.最高直降300+赠背包+3期免息 ",
+				"src" : "compu6.png",
+				"price" : "¥4888"
+            },
+            {
+				"id" : "shopb06",
+                "name" : "荣耀MagicBook 星云紫",
+                "desc" : "6.高颜值时尚轻薄本 ",
+				"src" : "compu7.png",
+				"price" : "¥5699"
+            },
+            {
+				"id" : "shopb07",
+                "name" : "HUAWEI MateBook E",
+                "desc" : "最高直降300元+赠配件礼包 ",
+				"src" : "compu8.png",
+				"price" : "¥3988"
+            },
+            {
+				"id" : "shopb08",
+                "name" : "HUAWEI MateBook X",
+                "desc" : "最高直降200元+赠配件礼包 ",
+				"src" : "compu9.png",
+				"price" : "¥6988"
+            },
+            {
+				"id" : "shopb09",
+                "name" : "HUAWEI MateBook 14",
+                "desc" : "优享购 免费登记中 ",
+				"src" : "compu10.png",
+				"price" : "¥6999"
+            }
+		]
+    },
+    "classify004":{
+		"name" : "精品平板",
+		"list" : [
+			{
+				"id" : "shopp01",
+                "name" : "荣耀平板5 10.1英寸",
+                "desc" : "6.最高直降200元 ",
+				"src" : "pin2.png",
+				"price" : "¥1199"
+            },
+            {
+				"id" : "shopp02",
+                "name" : "华为平板 M5 青春版 10.1英寸",
+                "desc" : "AI 智能语音控制 ",
+				"src" : "pin3.png",
+				"price" : "¥1799"
+            }, 
+            {
+				"id" : "shopp03",
+                "name" : "荣耀平板5 8英寸",
+                "desc" : "麒麟710强劲芯片 ",
+				"src" : "pin4.png",
+				"price" : "¥1099"
+            },
+            {
+				"id" : "shopp04",
+                "name" : "华为平板 M5 10.8英寸",
+                "desc" : "现货速发 ",
+				"src" : "pin5.png",
+				"price" : "¥2888"
+            },    
+            {
+				"id" : "shopp05",
+                "name" : "华为畅享平板",
+                "desc" : "畅快追剧，大屏享受  ",
+				"src" : "pin6.png",
+				"price" : "¥1199"
+            },
+            {
+				"id" : "shopp06",
+                "name" : "荣耀Waterplay",
+                "desc" : "限时直降100元 ",
+				"src" : "pin7.png",
+				"price" : "¥1499"
+            },
+            {
+				"id" : "shopp07",
+                "name" : "华为平板 M5 8.4英寸",
+                "desc" : "哈曼卡顿调音  ",
+				"src" : "pin8.png",
+				"price" : "¥1888"
+            },
+            {
+				"id" : "shopp08",
+                "name" : "荣耀Waterplay 8英寸",
+                "desc" : "最高直降200元  ",
+				"src" : "pin9.png",
+				"price" : "¥1499"
+            },
+            {
+				"id" : "shopp09",
+                "name" : "荣耀畅玩平板2 9.6英寸",
+                "desc" : "限时直降50元 ",
+				"src" : "pin10.png",
+				"price" : "¥1049"
+            }
+		]
+    },
+    "classify005":{
+		"name" : "智能穿戴",
+		"list" : [
+			{
+				"id" : "shopz01",
+                "name" : "荣耀手表魔法系列",
+                "desc" : "最高直降100元 3期免息 ",
+				"src" : "zn2.png",
+				"price" : "¥799"
+            },
+            {
+				"id" : "shopz02",
+                "name" : "华为手环 B5",
+                "desc" : "彩屏健康手环 ",
+				"src" : "zn3.png",
+				"price" : "¥899"
+            },
+            {
+				"id" : "shopz03",
+                "name" : "荣耀手表梦幻系列",
+                "desc" : "最高直降200 ",
+				"src" : "zn4.png",
+				"price" : "¥999"
+            },
+            {
+				"id" : "shopz04",
+                "name" : "HUAWEI WATCH 2 Pro",
+                "desc" : "手机手表共享一个号码 ",
+				"src" : "zn5.png",
+				"price" : "¥2088"
+            },
+            {
+				"id" : "shopz05",
+                "name" : "荣耀手环4",
+                "desc" : "爆款限时优惠10 ",
+				"src" : "zn6.png",
+				"price" : "¥189"
+            },
+            {
+				"id" : "shopz06",
+                "name" : "华为手环 3 Pro",
+                "desc" : "独立GPS  彩屏健康手环 ",
+				"src" : "zn7.png",
+				"price" : "¥399"
+            },
+            {
+				"id" : "shopz07",
+                "name" : "荣耀手环3",
+                "desc" : "最高直降90元 ",
+				"src" : "zn8.png",
+				"price" : "¥109"
+            },
+            {
+				"id" : "shopz08",
+                "name" : "华为儿童手表 3 Pro",
+                "desc" : "4G全网通 高清拍照 ",
+				"src" : "zn9.png",
+				"price" : "¥938"
+            }
+		]
+    },
+    "classify006":{
+		"name" : "智能家居",
+		"list" : [
+			{
+				"id" : "shopj01",
+                "name" : "荣耀路由Pro 2",
+                "desc" : "四核全千兆 ",
+				"src" : "jiaju2.png",
+				"price" : "¥329"
+            },
+            {
+				"id" : "shopj02",
+                "name" : "华为 AI 音箱",
+                "desc" : "丹拿音质 声纹识别 ",
+				"src" : "jiaju3.png",
+				"price" : "¥399"
+            },
+            {
+				"id" : "shopj03",
+                "name" : "荣耀YOYO智能音箱",
+                "desc" : "智能通话 能听会说 ",
+				"src" : "jiaju4.png",
+				"price" : "¥179"
+            },
+            {
+				"id" : "shopj04",
+                "name" : "华为路由WS5200增强版",
+                "desc" : "双核真双频 就是快 ",
+				"src" : "jiaju5.png",
+				"price" : "¥217"
+            },
+            {
+				"id" : "shopj05",
+                "name" : "荣耀路由2S",
+                "desc" : "4颗放大器 信号更强 ",
+				"src" : "jiaju6.png",
+				"price" : "¥179"
+            },
+            {
+				"id" : "shopj06",
+                "name" : "华为路由器WS5102",
+                "desc" : "真双频  就是快 ",
+				"src" : "jiaju7.png",
+				"price" : "¥139"
+            },
+            {
+				"id" : "shopj07",
+                "name" : "荣耀路由Pro",
+                "desc" : "双千兆网速 ",
+				"src" : "jiaju8.png",
+				"price" : "¥249"
+            },
+            {
+				"id" : "shopj08",
+                "name" : "华为备咖存储",
+                "desc" : "1T 大容量 ",
+				"src" : "jiaju9.png",
+				"price" : "¥599"
+            }
+		]
+    },
+    "classify007":{
+		"name" : "热销配件",
+		"list" : [
+			{
+				"id" : "shopei01",
+                "name" : "荣耀FlyPods青春版 真无线耳机",
+                "desc" : "6.双击触控，降噪通话   ",
+				"src" : "pei2.png",
+				"price" : "¥369"
+            },
+            {
+				"id" : "shopei02",
+                "name" : "FlyPods系列无线耳机",
+                "desc" : "高清音质，长续航 ",
+				"src" : "pei3.png",
+				"price" : "¥749"
+            },
+            {
+				"id" : "shopei03",
+                "name" : "HUAWEI FreeBuds 2系列",
+                "desc" : "骨声纹识别 智慧声控 ",
+				"src" : "pei4.png",
+				"price" : "¥999"
+            },
+            {
+				"id" : "shopei04",
+                "name" : "荣耀智能体脂秤",
+                "desc" : "科学指导减脂 ",
+				"src" : "pei5.png",
+				"price" : "¥99"
+            },
+            {
+				"id" : "shopei05",
+                "name" : "华为安居智能摄像机",
+                "desc" : "360度全景视角 ",
+				"src" : "pei6.png",
+				"price" : "¥299"
+            },
+            {
+				"id" : "shopei06",
+                "name" : "荣耀xSport 运动蓝牙耳机",
+                "desc" : "10天待机/11小时续航 ",
+				"src" : "pei7.png",
+				"price" : "¥179"
+            },
+            {
+				"id" : "shopei07",
+                "name" : "荣耀移动电源2 10000mAh",
+                "desc" : "18W双向快充/新国标认证 ",
+				"src" : "pei8.png",
+				"price" : "¥99"
+            },
+            {
+				"id" : "shopei08",
+                "name" : "华为40W超级快充移动电源",
+                "desc" : "双向40W超级快充 ",
+				"src" : "pei9.png",
+				"price" : "¥369"
+            }
+		]
+    },
+    "classify008":{
+		"name" : "品牌配件",
+		"list" : [
+			{
+				"id" : "shopai01",
+                "name" : "欧普读写台灯",
+                "desc" : "用好光 才爱眼 ",
+				"src" : "pai2.png",
+				"price" : "¥158"
+            },
+            {
+				"id" : "shopai02",
+                "name" : "海雀AI全景摄像头",
+                "desc" : "用芯看家护宠 ",
+				"src" : "pai3.png",
+				"price" : "¥269"
+            },
+            {
+				"id" : "shopai03",
+                "name" : "720全效空气净化器",
+                "desc" : "灭菌除醛 全效净化 ",
+				"src" : "pai4.png",
+				"price" : "¥1149"
+            },
+            {
+				"id" : "shopai04",
+                "name" : "北通G1手游游戏手柄-蓝牙版",
+                "desc" : "多指组合操作 ",
+				"src" : "pai5.png",
+				"price" : "¥229"
+            },
+            {
+				"id" : "shopai05",
+                "name" : "图拉斯 临时停车牌",
+                "desc" : "临时停车更方便 ",
+				"src" : "pai6.png",
+				"price" : "¥65"
+            },
+            {
+				"id" : "shopai06",
+                "name" : "M5 平板电脑皮套键盘",
+                "desc" : "轻薄优雅 精巧设计 ",
+				"src" : "pai7.png",
+				"price" : "¥399"
+            },
+            {
+				"id" : "shopai07",
+                "name" : "海备思高清无线投屏器",
+                "desc" : "扫码投屏 4K高清 ",
+				"src" : "pai8.png",
+				"price" : "¥229"
+            },
+            {
+				"id" : "shopai08",
+                "name" : "耐翔 手游数据线",
+                "desc" : "随心随意双面盲插 ",
+				"src" : "pai9.png",
+				"price" : "¥29"
+            }
+		]
+    }
+}

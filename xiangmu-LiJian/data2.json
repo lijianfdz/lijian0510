@@ -1,0 +1,166 @@
+{
+	"classify001":{
+		"name" : "热销单品",
+		"list" : [
+			{
+				"id" : "shopr01",
+                "name" : "荣耀8X",
+                "desc" : "64GB降100 老用户再送数据线",
+				"src" : "rexiao1.png",
+				"price" : "¥1299"
+            },
+            {
+				"id" : "shopr02",
+                "name" : "HUAWEI Mate 20 Pro",
+                "desc" : "赠好礼|享6期免息",
+				"src" : "rexiao2.png",
+				"price" : "¥5499"
+            },
+            {
+				"id" : "shopr03",
+                "name" : "荣耀10青春版",
+                "desc" : "4+64GB减150",
+				"src" : "rexiao3.png",
+				"price" : "¥1299"
+            },
+            {
+				"id" : "shopr04",
+                "name" : "华为畅享 9S",
+                "desc" : "",
+				"src" : "rexiao4.png",
+				"price" : "¥1599"
+            },
+            {
+				"id" : "shopr05",
+                "name" : "荣耀10",
+                "desc" : "最高优惠300元  ",
+				"src" : "rexiao5.png",
+				"price" : "¥1899"
+            },
+            {
+				"id" : "shopr06",
+                "name" : "HUAWEI nova 4e",
+                "desc" : "3200万立体美颜 AI超广角三摄 ",
+				"src" : "rexiao6.png",
+				"price" : "¥1999"
+            },
+            {
+				"id" : "shopr07",
+                "name" : "荣耀畅玩8C",
+                "desc" : "4GB+32GB到手价899 ",
+				"src" : "rexiao7.png",
+				"price" : "¥899"
+            },
+            {
+				"id" : "shopr08",
+                "name" : "HUAWEI P20",
+                "desc" : "4GB+享6期免息 限量好礼",
+				"src" : "rexiao8.png",
+				"price" : "¥3388"
+            }
+		]
+	},
+	"classify002":{
+		"name" : "手机",
+		"list" : [
+			{
+				"id" : "shops1",
+                "name" : "华为畅享9",
+                "desc" : "6.26英寸高清珍珠屏 ",                
+				"src" : "phone2.png",
+				"price" : "¥1399"
+            },
+            {
+				"id" : "shops2",
+                "name" : "荣耀Note10",
+                "desc" : "6.到手价1999起 ",                
+				"src" : "phone3.png",
+				"price" : "¥1999"
+            },
+            {
+				"id" : "shops3",
+                "name" : "HUAWEI P20 Pro",
+                "desc" : "下单减400+赠好礼",                
+				"src" : "phone4.png",
+				"price" : "¥4988"
+            },
+            {
+				"id" : "shops4",
+                "name" : "荣耀Magic2",
+                "desc" : "限时优惠300元 ",                
+				"src" : "phone5.png",
+				"price" : "¥3499"
+            },
+            {
+				"id" : "shops5",
+                "name" : "华为畅享9 Plus",
+                "desc" : "6.四摄全面屏 ",                
+				"src" : "phone6.png",
+				"price" : "¥1499"
+            },
+            {
+				"id" : "shops6",
+                "name" : "荣耀8X Max",
+                "desc" : "64GB减100",                
+				"src" : "phone7.png",
+				"price" : "¥1399"
+            },  
+            {
+				"id" : "shops7",
+                "name" : "HUAWEI Mate 20 RS",
+                "desc" : "保时捷设计 ",                
+				"src" : "phone8.png",
+				"price" : "¥12999"
+            },
+            {
+				"id" : "shops8",
+                "name" : "荣耀Play",
+                "desc" : "最高优惠400 ",                
+				"src" : "phone9.png",
+				"price" : "¥1699"
+            },
+            {
+				"id" : "shops9",
+                "name" : "华为畅享 9e",
+                "desc" : "6.09英寸珍珠屏 ",                
+				"src" : "phone10.png",
+				"price" : "¥999"
+            }, 
+            {
+				"id" : "shops10",
+                "name" : "荣耀畅玩7",
+                "desc" : "小巧全面屏 ",                
+				"src" : "phone11.png",
+				"price" : "¥599"
+            }, 
+            {
+				"id" : "shops11",
+                "name" : "HUAWEI nova 3",
+                "desc" : "领券最高减100元 ",                
+				"src" : "phone12.png",
+				"price" : "¥2799"
+            },
+            {
+				"id" : "shops12",
+                "name" : "HUAWEI nova 3i",
+                "desc" : "享6期免息 ",                
+				"src" : "phone13.png",
+				"price" : "¥1899"
+            },
+            {
+				"id" : "shops13",
+                "name" : "荣耀畅玩8C",
+                "desc" : "限时优惠100 ",                
+				"src" : "phone14.png",
+				"price" : "¥899"
+            },
+            {
+				"id" : "shops14",
+                "name" : "华为畅享 8e 青春",
+                "desc" : "5.45英寸高清全面屏  ",                
+				"src" : "phone15.png",
+				"price" : "¥799"
+            }
+		]
+    }
+}

@@ -1,0 +1,356 @@
+.carnav{
+    height: 70px;
+}
+
+.carnav .con{
+    height: 70px;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    line-height: 1;
+    position: relative;
+}
+
+.carnav .con span{
+    display: inline-block;
+    font-size: 22px;
+    margin-left: 30px;
+    color: #3a3a3a;
+}
+
+.carnav .con .gz{
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    right: 0;
+    background: url(../images/shopcar.svg);
+    background-position: -42px -22px;
+}
+
+
+
+section{
+    height: 100%;
+    background: #F5F5F5;
+    overflow: hidden;
+}
+
+section .shop-con{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+section .shop-con .login{
+    margin-top: 10px;
+    height: 50px;
+    width: 1198px;
+    border: 1px solid #EACE85;
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    background: #FFFDEE;
+}
+
+section .shop-con .login span{
+    color: #CA141D;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+section .shop-con .login span::before{
+    content: "";
+    width: 12px;
+    height: 12px;
+    background: url(../images/login.png) no-repeat;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+    margin-right: 3px;
+}
+section .shop-con .login a{
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+    margin-left: 20px;
+    color: #fff;
+    background: #CA141D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section .shop-con .shopcar{
+    margin-top: 20px;
+}
+
+section .shop-con .shopcar .list{
+    width: 1200px;
+    height: 40px;
+    background: #fff;
+    position: relative;
+}
+
+section .shop-con .shopcar .list input{
+    margin-left: 40px;
+}
+
+section .shop-con .shopcar .list p{
+    display: flex;
+    align-items: center;
+}
+
+section .shop-con .shopcar .list .check{
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    left: 60px;
+}
+
+section .shop-con .shopcar .list .shop{
+    width: 450px;
+    height: 40px;
+    position: absolute;
+    left: 240px;
+}
+
+section .shop-con .shopcar .list .price{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 700px;
+}
+
+section .shop-con .shopcar .list .num{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 830px;
+}
+
+section .shop-con .shopcar .list .xiao{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 960px;
+}
+
+section .shop-con .shopcar .list .cao{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 1090px;
+}
+
+section .shop-con .shopcar div{
+    display: flex;
+    align-items: center;
+    color: #A4A4A4;
+    font-size: 12px;
+}
+
+section .shop-con .shopcar-con{
+    height: 140px;
+    width: 1200px;
+    background: #fff;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+section .shop-con .shopcar-con .int{
+    margin-left: 39px;
+}
+
+section .shop-con .shopcar-con .pro-path{
+    margin-left: 20px;
+}
+
+section .shop-con .shopcar-con .pro{
+    width: 978px;
+    height: 46px;
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+
+section .shop-con .shopcar-con .pro .pro-name a{
+    font-size: 14px;
+    color: #3A3A3A;
+}
+
+section .shop-con .shopcar-con .pro .pro-price{
+    width: 140px;
+    height: 21px;
+    text-align: center;
+    margin-left: 420px;
+    margin-top: -20px;
+    font-size: 14px;
+}
+
+section .shop-con .shopcar-con .pro .pro-num{
+    width: 64px;
+    height: 44px;
+    border: 1px solid #D6D6D6;
+    position: relative;
+    margin-left: 600px;
+    margin-top: -22px;
+}
+
+section .shop-con .shopcar-con .pro .pro-num .ber{
+    width: 53px;
+    height: 44px;
+    position: absolute;
+    left: -11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #D6D6D6;
+}
+
+section .shop-con .shopcar-con .pro .pro-num .ad{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #D6D6D6;
+    cursor: pointer;
+}
+
+section .shop-con .shopcar-con .pro .pro-num .ev{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+section .shop-con .shopcar-con .pro .zp{
+    color: #CA141D;
+    margin-left: 730px;
+    font-size: 14px;
+    margin-top: -45px;
+    font-weight: 700;
+}
+
+section .shop-con .shopcar-con .pro .del{
+    font-size: 14px;
+    color: #A4A4A4;
+    margin-left: 870px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+
+section .shop-con .shopcar-con .pro-path img{
+    width: 100px;
+    height: 100px;
+}
+
+section .shop-con .pm{
+    height: 60px;
+    width: 1200px;
+    background: #fff;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 60px;
+    position: relative;
+
+}
+
+section .shop-con .pm .ck{
+    margin-left: 39px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+section .shop-con .pm .ck span{
+    font-size: 14px;
+    color: #3A3A3A;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+section .shop-con .pm .ck .delAll{
+    margin-left: 20px;
+}
+
+section .shop-con .pm .lj{
+    width: 180px;
+    height: 60px;
+    background: #CA151E;
+    position: absolute;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+}
+
+section .shop-con .pm .zj{
+    width: 175px;
+    height: 27px;
+    /* background: red; */
+    line-height: 27px;
+    position: absolute;
+    right: 180px;
+    top: 10px;
+}
+
+section .shop-con .pm .zj span{
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+section .shop-con .pm .zj .m{
+    font-size: 16px;
+    color: #CA151E;
+    font-weight: 700;
+}
+
+section .shop-con .pm .zj .nums{
+    font-size: 20px;
+    color: #CA151E;
+    font-weight: 700;
+}
+
+section .shop-con .pm .zj .bg{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url(../images/shop-icon.png);
+    background-position: -22px -137px;
+}
+
+section .shop-con .pm .shops{
+    width: 177px;
+    height: 18px;
+    font-size: 10px;
+    line-height: 18px;
+    position: absolute;
+    right: 200px;
+    bottom: 5px;
+    color: #A4A4A4;
+}
+
+section .shop-con .pm .shops .num{
+    color: #CA151E;
+}
+
+section .shop-con .pm .shops .meo{
+    color: #3a3a3a;
+}
